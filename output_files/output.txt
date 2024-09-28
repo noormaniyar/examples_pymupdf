@@ -1,0 +1,772 @@
+CX57C
+MINI EXCAVATOR 
+TIER 4 FINAL CERTIFIED
+1 of 4
+OPERATOR ENVIRONMENT
+Enclosed cab w/heat and air conditioning; ISO 
+6396:2008 sound pressure level LpA=76bB (A); 
+Pilot operated hand controls and foot pedals; 
+Adjustable seat w/seat belt and seat heater; 
+Arm rests; 12V socket; 5.7 in color LCD display; 
+cup holder; Cell phone holder; Bluetooth radio 
+with USB input, 2 speakers and remote control.
+Display includes:
+	 Hydraulic oil temp warning lamp; Air cleaner 
+	 warning lamp; Engine stop warning lamp; Check 
+	 engine warning lamp; Water in fuel warning 
+	 lamp; Battery charging warning lamp; 
+	 Emergency warning lamp; Engine coolant temp 
+	 warning lamp; Engine oil pressure warning lamp; 
+	 DPF regeneration inhibit warning lamp; DPF 
+	 regeneration acknowledge warning lamp; DPF 
+	 warning lamp; High Exhaust Temperature 
+	 warning lamp; Low fuel level warning lamp 
+	 Engine coolant temperature gauge; Hydraulic 
+	 oil temperature gauge; Fuel gauge; Engine RPM
+	 and Hour meter.
+OPERATING WEIGHT
+Cab operating weight:
+	 Short arm	
+12,270 lb (5 565 kg)
+	 Long arm	
+12,320 lb (5 590 kg)
+NOTE: w/rubber tracks/no quick coupler/bucket/
+	 	
+	
+fluids/full of fuel/165 lb operator.
+HYDRAULICS
+Main pumps:	
+Variable displacement tandem 
+	 	
+	
+	
+axial piston pump + gear pump
+	 Max rated flow:	
+2 x 15.3 + 10.1 gpm
+	 	
+	
+	
+(2 x 57.8 + 38.4 L/min)
+Auxiliary flow: 
+	 Hammer Circuit 1-way:
+	 	
+Flow	
+15.3 gpm (57.8 L/min)
+	 	
+Pressure	
+3,133 psi (216 bar)
+	 1st Auxiliary 2-way Circuit:
+	 	
+Flow	
+15.3 gpm (57.8 L/min)
+	 	
+Pressure	
+3,133 psi (216 bar)
+	 2nd Auxiliary 2-way Circuit:
+	 	
+Flow	
+7.9 gpm (30 L/min)
+	 	
+Pressure	
+2,321 psi (160 bar)
+System relief pressure:
+	 Standard 	
+3,130 psi (216 bar)
+	 Overload relief valve	
+3,410 psi (235 bar)
+Pilot control hydraulic system:
+ 	Pump	
+Gear pump
+	 Maximum capacity 	
+2.5 gpm (9.5 L/min)
+Control valves:
+	 Pilot control for boom, arm, bucket, and swing
+	 Mechanical control for left/right travel 
+	 	
+and backfill blade
+Swing Motor:	
+Fixed displacement
+	 	
+	
+	
+axial piston motor
+	 	
+	
+	
+Automatic spring applied
+	 	
+	
+	
+hydraulic released brake
+Travel Motor:	
+Variable displacement axial piston
+	 	
+	
+	
+2-stage planetary
+	 	
+	
+	
+Automatic spring applied
+	 	
+	
+	
+hydraulic released brake
+SERVICE CAPACITIES
+Fuel tank	
+31.7 gal (120 L)
+Hydraulic tank:
+	 Refill capacity	
+18.5 gal (70 L)
+	 Total system 	
+31.7 gal (120 L)
+Engine oil w/filter change	
+3.1 gal (11.6 L)
+Radiator 	
+2.5 gal (9.5 L)
+OTHER SPECIFICATIONS
+Swing speed	
+ 0 – 9.1 RPM
+Undercarriage:
+	 Track rollers 	
+1 upper/5 lower each
+Boom:
+	 Swing 	
+80° left/50° right
+	 Length	
+ 9 ft 10 in (3.0 m)
+Arm:
+	 Standard length 	
+5 ft 3 in (1.6 m)
+	 Long arm length	
+6 ft 3 in (1.9 m)
+ENGINE
+Model		
+Yanmar 4TNV98C
+Emissions Certification	
+Tier 4 Final
+Fuel	
+	
+Diesel
+Cylinders	
+ 4
+Displacement	
+ 203 in3 (3 319 cc)
+Fuel injection	
+Electronic common rail
+Gross horsepower – SAE J1995 @ 2400 RPM:	  
+	 	
+	
+	
+66.9 hp (49.9 kW)
+Net horsepower – SAE J1349 @ 2400 RPM:
+	 	
+	
+	
+65.1 hp (48.5 kW) 
+Maximum Engine Torque @ 1550 RPM:
+	 	
+	
+	
+173.7 lb ft (235.4 Nm)
+Cooling	
+ Water-cooled
+DRIVETRAIN
+Travel speeds: 
+	 1st 	 	
+1.3 mph (2.1 kph)
+	 2nd	 	
+2.5 mph (4.1 kph)
+Maximum traction force	
+11,680 lb (5 300 kg)
+Gradeability	
+35° (70%)
+Ground pressure	
+4.8 psi (0.34 kgf/cm2)
+ELECTRICAL
+Voltage	
+12 Volts
+Alternator rating	
+60 amp
+Battery 	
+1 x 12 V x 100 Ah
+	 	
+	
+	
+850 CCA
+DIMENSIONS
+	
+	 	
+		
+	
+5 ft 3 in (1.6 m) Arm
+A. 	 Overall height 	
+8 ft 4 in (2 550 mm)
+B. 	 Overall transport length	
+19 ft 4 in (5 900 mm)
+C. 	 Width of upper structure	
+6 ft 1 in (1 850 mm)
+D. 	 Track overall length	
+8 ft 4 in (2 530 mm)
+E. 	 Track overall width	
+6 ft 4 in (1 920 mm)
+F. 		 Track shoe width	
+15 in (380 mm)
+G.		 Track gauge	
+4 ft 11 in (1 500 mm)
+H.	 	Center to center – idler to sprocket 	 6 ft 6 in (1 990 mm)
+I. 		 Upper structure ground clearance 	
+2 ft 3 in (690 mm)
+J. 		 Minimum ground clearance 	
+1 ft 3 in (380 mm)
+K. 	 Tail swing radius	
+5 ft 5 in (1 650 mm)
+Boom swing	
+80° left/50° right
+Tail swing overhang	
+2 ft 3 in (690 mm)
+Line drawings are for illustrative purpose only 
+and may not be exact representation of unit.
+2 of 4
+PERFORMANCE SPECS
+	
+	 	
+		
+	
+5 ft 3 in (1.6 m) Arm		
+6 ft 3 in (1.9 m) Arm
+O. 	 Maximum dig radius 	
+20 ft 2 in (6 150 mm)	
+21 ft 0 in (6 400 mm)
+P.		 Dig radius at groundline 	
+19 ft 9 in (6 010 mm)	
+20 ft 7 in (6 270 mm)
+Q. 	 Maximum dig depth 	
+12 ft 6 in (3 820 mm)	
+13 ft 4 in (4 060 mm)
+R.		 Vertical straight wall dig depth 	
+10 ft 6 in (3 200 mm)	
+11 ft 4 in (3 460 mm)
+S. 	 Dump height 	
+13 ft 3 in (4 050 mm)	
+13 ft 9 in (4 180 mm)
+T. 	 Overall reach height 	
+19 ft 0 in (5 780 mm)	
+19 ft 5 in (5 920 mm)
+U. 	 Bucket rotation 	
+180°	
+180°
+Arm digging force – ISO	
+7,190 lbf (3 260 kgf/31.9 kN)	
+6,460 lbf (2 930 kgf/28.7 kN)
+Bucket digging force – ISO	
+9,550 lbf (4 330 kgf/42.4 kN)	
+9,550 lbf (4 330 kgf/42.4 kN)
+BLADE SPECS
+L.		 Backfill blade height 	
+1 ft 2 in (350 mm)
+M.		 Backfill blade rise above ground 	
+1 ft 3 in (390 mm)
+N.		 Backfill blade dig depth	
+1 ft 11 in (590 mm)
+Backfill blade width	
+6 ft 4 in (1 920 mm)
+A
+B
+C
+D
+E
+H
+I
+K
+J
+F
+A
+G
+N
+M
+L
+P
+O
+Q
+T
+U
+R
+S
+CX57C
+3 of 4
+END =
+SIDE =
+LIFT CAPACITIES
+9 ft 10 in (3.0 m) Boom, 5 ft 3 in (1.6 m) Arm, Dozer Blade Down Cab unit equipped with 0.18 m3 (SAE heaped) bucket, 15 in (380 mm) rubber track and 739 lb (335 kg) counterweight.
+Load/Lift 
+Point Height
+LOAD RADIUS
+MAXIMUM REACH
+7 ft
+(2.0 m)
+10 ft
+(3.0 m)
+13 ft
+(4.0 m)
+16 ft
+(5.0 m)
+REACH
+CAPACITY
+END
+SIDE
+END
+SIDE
+END
+SIDE
+END
+SIDE
+@
+END
+SIDE
++13 ft
+(4.0 m)
+2,170 lb*
+(990 kg)*
+2,170 lb*
+(990 kg)*
+14 ft 4 in
+(4.37 m)
+2,220 lb*
+(1 000 kg)*
+1,920 lb
+(870 kg)
++10 ft
+(3.0 m)
+2,340 lb*
+(1 060 kg)*
+2,220 lb
+(1 010 kg)
+16 ft 3 in
+(4.96 m)
+2,150 lb*
+(970 kg)*
+1,490 lb
+(670 kg)
++7 ft
+(2.0 m)
+6,610 lb*
+(3 000 kg)*
+6,610 lb*
+(3 000 kg)*
+3,660 lb*
+(1 660 kg)*
+3,400 lb
+(1 540 kg)
+2,850 lb*
+(1 290 kg)*
+2,110 lb
+(960 kg)
+2,530 lb*
+(1 150 kg)*
+1,430 lb
+(650 kg)
+17 ft 3 in
+(5.26 m)
+2,240 lb*
+(1 010 kg)*
+1,290 lb
+(590 kg)
++3 ft
+(1.0 m)
+5,150 lb*
+(2 340 kg)*
+3,080 lb
+(1 400 kg)
+3,470 lb*
+(1 580 kg)*
+1,970 lb
+(900 kg)
+2,780 lb*
+(1 260 kg)*
+1,370 lb
+(620 kg)
+17 ft 6 in
+(5.33 m)
+2,480 lb*
+(1 120 kg)*
+1,220 lb
+(550 kg)
+Groundline
+4,160 lb*
+(1 890 kg)*
+4,160 lb*
+(1 890 kg)*
+5,920 lb*
+(2 680 kg)*
+2,910 lb
+(1 320 kg)
+3,910 lb*
+(1 770 kg)*
+1,870 lb
+(850 kg)
+2,940 lb*
+(1 330 kg)*
+1,320 lb
+(600 kg)
+17 ft 0 in
+(5.17 m)
+2,820 lb*
+(1 280 kg)*
+1,250 lb
+(570 kg)
+-3 ft
+(-1.0 m)
+6,870 lb*
+(3 120 kg)*
+5,770 lb
+(2 620 kg)
+5,890 lb*
+(2 670 kg)*
+2,860 lb
+(1 300 kg)
+3,950 lb*
+(1 790 kg)*
+1,830 lb
+(830 kg)
+15 ft 8 in
+(4.77 m)
+3,040 lb*
+(1 380 kg)*
+1,410 lb
+(640 kg)
+-7 ft
+(-2.0 m)
+8,420 lb*
+(3 820 kg)*
+5,890 lb
+(2 670 kg)
+5,100 lb*
+(2 310 kg)*
+2,910 lb
+(1 320 kg)
+3,330 lb*
+(1 510 kg)*
+1,870 lb
+(850 kg)
+13 ft 2 in
+(4.01 m)
+3,310 lb*
+(1 500 kg)*
+1,860 lb
+(840 kg)
+-10 ft
+(-3.0 m)
+4,700 lb*
+(2 130 kg)*
+4,700 lb*
+(2 130 kg)*
+8 ft 3 in
+(2.52 m)
+3,570 lb*
+(1 620 kg)*
+3,570 lb*
+(1 620 kg)*
+NOTE: 	Lifting capacity are based on ISO 10567.
+	
+	
+Lifting capacity does not exceed 75% of tipping load with the machine on firm, level ground or 87% of full hydraulic capacity.
+	
+	
+The lift point is a hook located on the back of the bucket.
+	
+	
+*Indicates load limited by hydraulic capacity.
+9 ft 10 in (3.0 m) Boom, 6 ft 3 in (1.9 m) Arm, Dozer Blade Down Cab unit equipped with 0.18 m3 (SAE heaped) bucket, 15 in (380 mm) rubber track and 739 lb (335 kg) counterweight.
+Load/Lift 
+Point Height
+LOAD RADIUS
+MAXIMUM REACH
+7 ft
+(2.0 m)
+10 ft
+(3.0 m)
+13 ft
+(4.0 m)
+16 ft
+(5.0 m)
+REACH
+CAPACITY
+END
+SIDE
+END
+SIDE
+END
+SIDE
+END
+SIDE
+@
+END
+SIDE
++13 ft
+(4.0 m)
+15 ft 6 in
+(4.72 m)
+1,860 lb*
+(850 kg)*
+1,690 lb
+(770 kg)
++10 ft
+(3.0 m)
+2,070 lb*
+(940 kg)*
+2,070 lb*
+(940 kg)*
+2,150 lb*
+(980 kg)*
+1,500 lb
+(680 kg)
+17 ft 3 in
+(5.27 m)
+1,800 lb*
+(820 kg)*
+1,350 lb
+(610 kg)
++7 ft
+(2.0 m)
+3,170 lb*
+(1 440 kg)*
+3,170 lb*
+(1 440 kg)*
+2,610 lb*
+(1 180 kg)*
+2,150 lb
+(970 kg)
+2,360 lb*
+(1 070 kg)*
+1,450 lb
+(660 kg)
+18 ft 3 in
+(5.55 m)
+1,860 lb*
+(840 kg)*
+1,180 lb
+(540 kg)
++3 ft
+(1.0 m)
+4,770 lb*
+(2 170 kg)*
+3,150 lb
+(1 430 kg)
+3,280 lb*
+(1 490 kg)*
+2,000 lb
+(910 kg)
+2,660 lb*
+(1 200 kg)*
+1,380 lb
+(630 kg)
+18 ft 5 in
+(5.61 m)
+2,030 lb*
+(920 kg)*
+1,120 lb
+(510 kg)
+Groundline
+4,070 lb*
+(1 840 kg)*
+4,070 lb*
+(1 840 kg)*
+5,770 lb*
+(2 620 kg)*
+2,930 lb
+(1 330 kg)
+3,800 lb*
+(1 730 kg)*
+1,890 lb
+(860 kg)
+2,890 lb*
+(1 310 kg)*
+1,320 lb
+(600 kg)
+17 ft 11 in
+(5.46 m)
+2,360 lb*
+(1 070 kg)*
+1,140 lb
+(520 kg)
+-3 ft
+(-1.0 m)
+6,160 lb*
+(2 790 kg)*
+5,720 lb
+(2 600 kg)
+5,960 lb*
+(2 700 kg)*
+2,860 lb
+(1 300 kg)
+3,980 lb*
+(1 800 kg)*
+1,830 lb
+(830 kg)
+2,880 lb*
+(1 310 kg)*
+1,300 lb
+(590 kg)
+16 ft 8 in
+(5.08 m)
+2,800 lb*
+(1 270 kg)*
+1,260 lb
+(570 kg)
+-7 ft
+(-2.0 m)
+9,210 lb*
+(4 180 kg)*
+5,820 lb
+(2 640 kg)
+5,400 lb*
+(2 450 kg)*
+2,880 lb
+(1 300 kg)
+3,160 lb*
+(1 640 kg)*
+1,840 lb
+(830 kg)
+14 ft 5 in
+(4.40 m)
+3,050 lb*
+(1 380 kg)*
+1,600 lb
+(730 kg)
+-10 ft
+(-3.0 m)
+6,150 lb*
+(2 790 kg)*
+6,040 lb
+(2 740 kg)
+3,660 lb*
+(1 660 kg)*
+3,010 lb
+(1 360 kg)
+10 ft 4 in
+(3.16 m)
+3,350 lb*
+(1 520 kg)*
+2,770 lb
+(1 260 kg)
+NOTE: 	Lifting capacity are based on ISO 10567.
+	
+	
+Lifting capacity does not exceed 75% of tipping load with the machine on firm, level ground or 87% of full hydraulic capacity.
+	
+	
+The lift point is a hook located on the back of the bucket.
+	
+	
+*Indicates load limited by hydraulic capacity.
+CX57C
+STANDARD EQUIPMENT
+ENGINE
+Yanmar 4TNV98C
+Engine access under rear hood
+Glow plug starting aid
+Dry type air cleaner with restriction indicator
+ELECTRICAL
+12-volt electrical starting system
+Heavy-duty battery
+Battery Master Switch
+Key Start
+Anti-Theft-Engine starting passwords
+Front and rear working lights
+12 V power outlet
+Auto-idle deature with on/off switch
+Horn
+Pre-wired – Telematics ready
+HYDRAULICS
+Auxiliary hydraulics – independent single and 
+bi-directional – and plumbing to arm
+Large hydraulic oil cooler
+Electronic pattern changer in the cab
+Cylinder rod protection covers – Backfill 
+blade and Boom
+TRACK DRIVE
+Rubber belt tracks
+Automatic 2-speed travel
+Fully hydrostatic drive system
+Sealed and lubricated track rollers
+Track tension adjustment – grease type
+UPPER STRUCTURE
+Conventional radius tail swing
+Standard arm: 5 ft 3 in (1.6 m)
+Heavy counterweight: 220 lb (100 kg) heavier 
+than standard weight 
+Bucket linkage with lifting hook
+Thumb bracket
+OPERATOR ENVIRONMENT
+See page 1
+OTHER
+Swing boom – 80° left/50° right
+Hydraulic backfill blade
+WARRANTY
+Base warranty coverage: 2-Year/3,000-Hour 
+Full Machine Limited Warranty
+OPTIONAL EQUIPMENT
+OPERATOR ENVIRONMENT
+Rearview camera
+Travel alarm
+TRACK OPTIONS
+Tracks:
+Steel Tracks 1 ft 4 in (400 mm)
+Steel Tracks 1 ft 6 in (450 mm)
+Steel Tracks with bolt on Rubber Pads
+	
+1 ft 4 in (400 mm)
+Roadliner tracks – steel chain with rubber 
+	
+grousers/shoes 1 ft 4 in (400 mm)
+Rubber Belt Tracks 1 ft 4 in (400 mm)
+Track guides for steel tracks and steel tracks 
+with bolt on rubber track pads only:
+	
+Full
+	
+3-piece
+OTHER
+Optional long arm: 6 ft 3 in (1.9 m)
+Hydraulic quick coupler provision
+Klac coupler
+Mechanical coupler
+Hydraulic hammer
+Beacon
+2nd auxiliary circuit
+Hydraulic coupler
+4 of 4
+©2021 CNH Industrial America LLC. All rights reserved. CASE is a 
+trademark registered in the United States and many other countries, 
+owned by or licensed to CNH Industrial N.V., its subsidiaries or 
+affiliates. CNH Industrial Capital is a trademark in the United States 
+and many other countries, owned by or licensed to CNH Industrial 
+N.V., its subsidiaries or affiliates. Printed in U.S.A. Contains 10% 
+post-consumer fiber.
+IMPORTANT: CASE Construction Equipment Inc. reserves the right 
+to change these specifications without notice and without incurring 
+any obligation relating to such change. Availability of some models 
+and equipment builds vary according to the country in which the 
+equipment is used. The illustrations and text may include optional 
+equipment and accessories and may not include all standard 
+equipment. Your CASE dealer/distributor will be able to give you 
+details of the products and their specifications available in your area.
+
+
+
+CASE Construction Equipment is biodiesel-
+friendly. NOTE: All engines meet current EPA 
+emissions regulations. All specifications are 
+stated in accordance with SAE Standards or 
+Recommended Practices, where applicable.
+Always read the Operator’s Manual before 
+operating any equipment. Inspect equipment 
+before using it, and be sure it is operating 
+properly. Follow the product safety signs and 
+use any safety features provided.
+CaseCE.com
+Form No. CCE202108CX57C
+Replaces Form No. CCE201806CX57C
+CX57C
+
